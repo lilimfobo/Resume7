@@ -28,7 +28,7 @@ h1 {
 }
 
 #sidebar {
-  background-color: #e7ec89;
+  background: #e7ec89 url(sand.jpg);
   padding: 5px;
   margin-top: 15px;
   margin-bottom: 15px;
