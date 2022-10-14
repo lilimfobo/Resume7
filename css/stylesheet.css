@@ -327,3 +327,23 @@ footer .content .middle select option{
     .showcase .getStartedContainer input{
         padding: 12px;
         width: 80%;
+    }
+
+    /*EMAIL ADDRESS*/
+    .emailAddressContainer input{
+        padding: 12px;
+        width: 80%;
+    }
+
+    /* FOOTER SECTION */
+    footer{
+        position: relative;
+      }
+      footer .content .box{
+        width: 100%;
+        margin-top: 30px;
+      }
+      footer .content .middle{
+        padding-left: 0;
+      }
+}
