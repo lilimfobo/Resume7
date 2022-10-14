@@ -1190,3 +1190,8 @@ const image = document.getElementById ('image');
 
 comingSoon.addEventListener ('submit', function(){
     e.preventDefault();
+
+    const comingSoonValue = comingSoon.value;
+    const imageValue = image.Value;
+
+    
