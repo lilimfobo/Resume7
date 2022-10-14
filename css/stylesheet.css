@@ -237,11 +237,11 @@ footer .content .middle select option{
 
     /*EMAIL ADDRESS*/
 
-    .email-address-container input{
+    .emailAddressContainer input{
         padding: 17px;
         width: 55%;
     }
-    .email-address-container button{
+    .emailAddressContainer button{
         display: block;
         display: flex;
         align-items: center;
