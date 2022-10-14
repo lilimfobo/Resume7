@@ -125,7 +125,7 @@ h2 {
 
 /*EMAIL ADDRESS STARTS*/
 
-.email-address-container{
+.emailAddressContainer{
     z-index: 2;
     position: relative;
     text-align: center;
@@ -134,14 +134,14 @@ h2 {
     padding-bottom: 4%;
     background-color: black;
 }
-.email-address-container input{
+.emailAddressContainer input{
     width: 35%;
     padding: 22px;
     border: none;
     margin-top: 0.5%;
     outline: none;
 }
-.email-address-container button{
+.emailAddressContainer button{
     padding: 22px;
     border: none;
     background-color: #e50914;
