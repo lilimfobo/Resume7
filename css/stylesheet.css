@@ -93,3 +93,13 @@
     margin-top: 0.5%;
     outline: none;
 }
+
+.showcase .get-started-container button{
+    padding: 22px;
+    border: none;
+    background-color: #e50914;
+    color: white;
+    margin-left: -0.3%;
+    font-weight: bold;
+}
+/*HEADER SECTION ENDS*/
