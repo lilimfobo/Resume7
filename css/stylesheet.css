@@ -334,6 +334,10 @@ footer .content .middle select option{
         padding: 12px;
         width: 80%;
     }
+    .yourName input{
+        padding: 17px;
+        width: 55%;
+    }
 
     /* FOOTER SECTION */
     footer{
