@@ -207,3 +207,110 @@ window.addEventListener('scroll' , () => {
                 image: "https://www.imdb.com/title/tt6128300/mediaviewer/rm3760394753/?ref_=tt_ov_i", //Image URL's
                 preview: "https://www.youtube.com/watch?v=Uq0soWMpkv8",  //Trailer URL's
             },
+            {
+                id: "Coming Soon", //Movie row name
+                title: "Fifty Shades Freed", //Title
+                genre: "Drama, Romance, Suspense", //Genre
+                comingSoon: true, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2018, //When it is available to watch
+                description: "Anastasia and Christian get married, but Jack Hyde continues to threaten their relationship.", //Description of the movie
+                image: "https://www.imdb.com/title/tt4477536/mediaviewer/rm1012160512/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=av4zbG8dAhk",  //Trailer URL's
+            },
+            {
+                id: "Coming Soon", //Movie row name
+                title: "Me Time", //Title
+                genre: "Comedy, Adventure", //Genre
+                comingSoon: true, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2022, //When it is available to watch
+                description: "Follows a dad who finds time for himself for the first time in years while his wife and kids are away. He reconnects with a friend for a wild weekend.", //Description of the movie
+                image: "https://www.imdb.com/title/tt14309446/mediaviewer/rm2206861313/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=Mmq_NVwLN_g"  //Trailer URL's
+            },
+            {
+                id: "Coming Soon", //Movie row name
+                title: "Halftime", //Title
+                genre: "Documentary", //Genre
+                comingSoon: true, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2022, //When it is available to watch
+                description: "Global superstar Jennifer Lopez reflects on her multifaceted career and the pressure of life in the spotlight in this intimate documentary.", //Description of the movie
+                image: "https://www.imdb.com/title/tt19637852/mediaviewer/rm3760725761/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=-voLo_TIWf4"  //Trailer URL's
+            },
+            {
+                id: "Coming Soon", //Movie row name
+                title: "The Gray Man", //Title
+                genre: "Suspense, Drama, Action", //Genre
+                comingSoon: true, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2022, //When it is available to watch
+                description: "When the CIA's most skilled operative-whose true identity is known to none-accidentally uncovers dark agency secrets, a psychopathic former colleague puts a bounty on his head, setting off a global manhunt by international assassins.", //Description of the movie
+                image: "https://www.imdb.com/title/tt1649418/mediaviewer/rm2121338881/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=BmllggGO4pM"  //Trailer URL's
+            },
+            {
+                id: "Coming Soon", //Movie row name
+                title: "Interceptor", //Title
+                genre: "Drama, Action", //Genre
+                comingSoon: true, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2022, //When it is available to watch
+                description: "One Army captain must use her years of tactical training and military expertise when a simultaneous coordinated attack threatens the remote missile interceptor station she is in command of.", //Description of the movie
+                image: "https://www.imdb.com/title/tt14174940/mediaviewer/rm3821146625/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=OQSoII4Bj1o"  //Trailer URL's
+            },
+            {
+                id: "Coming Soon", //Movie row name
+                title: "Outer Banks", //Title
+                genre: "Adventure, Drama, Action, Romance", //Genre
+                comingSoon: true, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2020, //When it is available to watch
+                description: "A group of teenagers from the wrong side of the tracks stumble upon a treasure map that unearths a long-buried secret.", //Description of the movie
+                image: "https://www.imdb.com/title/tt10293938/mediaviewer/rm1244920065/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=uk_hFfUFXh4"  //Trailer URL's
+            },
+            {
+                id: "Coming Soon", //Movie row name
+                title: "Peaky Blinders", //Title
+                genre: "Drama, Action, Romance", //Genre
+                comingSoon: true, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2022, //When it is available to watch
+                description: "A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.", //Description of the movie
+                image: "https://www.imdb.com/title/tt2442560/mediaviewer/rm1060899073/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=oVzVdvGIC7U"  //Trailer URL's
+            }
+[Movies],//This is all the information about the Movies and TV Shows sorted within an array (eg. the id, title, genre, date available, description, image and trailer.)
+            {   id: "Movies", //Movie row name
+                title: "Turning Red", //Title
+                genre: "Annimation", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2022, //When the movie is available to watch
+                description: "A 13-year-old girl named Meilin turns into a giant red panda whenever she gets too excited.", //Description of the movie
+                image: "https://www.imdb.com/title/tt8097030/mediaviewer/rm1685446657/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=XdKzUbAiswE",  //Trailer URL's
+            },
+            {   id: "Movies", //Movie row name
+                title: "John Wick", //Title
+                genre: "Action, Suspense, Drama", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2019, //When the movie is available to watch
+                description: "John Wick is on the run after killing a member of the international assassins' guild, and with a $14 million price tag on his head, he is the target of hit men and women everywhere.", //Description of the movie
+                image: "https://www.imdb.com/title/tt6146586/mediaviewer/rm2374853376/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=M7XM597XO94",  //Trailer URL's
+            },
+            {   id: "Movies", //Movie row name
+                title: "Minions", //Title
+                genre: "Annimation", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2022, //When the movie is available to watch
+                description: "The untold story of one twelve-year-old's dream to become the world's greatest supervillain.", //Description of the movie
+                image: "https://www.imdb.com/title/tt5113044/mediaviewer/rm2384730369/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=6DxjJzmYsXo",  //Trailer URL's
+            },
+            {   id: "Movies", //Movie row name
+                title: "Kissing Booth", //Title
+                genre: "Romance, Drama", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2018, //When the movie is available to watch
+                description: "A high school student is forced to confront her secret crush at a kissing booth.", //Description of the movie
+                image: "https://www.imdb.com/title/tt3799232/mediaviewer/rm1883393024/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=7bfS6seiLhk",  //Trailer URL's
+            },
