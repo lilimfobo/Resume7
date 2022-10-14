@@ -26,9 +26,6 @@ h2 {
 	font-size: 2rem;
 }
 
-.welcome input {
-    color:black;
-}
 .showcase {
 	width: 100%;
 	height: 100vh;
@@ -50,16 +47,16 @@ h2 {
 
 /*NAVIGATION BAR*/
 
-.showcase-top {
+.showcaseTop {
 	position: relative;
 	z-index: 2;
     padding: 26px 0px 0px 55px;
 }
-.showcase-top #logo{
+.showcaseTop #logo{
     height: 35px;
 }
 
-.showcase-top .submit{
+.showcaseTop .submit{
     background-color: #e50914;
     color: white;
     border: none;
@@ -70,7 +67,7 @@ h2 {
     right: 55px;
 }
 
-.showcase-top select{
+.showcaseTop select{
     background-color: transparent;
     color: white;
     border-radius: 3px;
@@ -80,11 +77,11 @@ h2 {
     right: 85px;
 }
 
-.showcase-top select option{
+.showcaseTop select option{
     color: black;
 }
 /*GET STARTED*/
-.showcase .get-started-container{
+.showcase .getStartedContainer{
     z-index: 2;
     position: relative;
     text-align: center;
@@ -93,23 +90,23 @@ h2 {
     width: 100%;
 }
 
-.showcase .get-started-container h1,p{
+.showcase .getStartedContainer h1,p{
     color: white;
 }
 
-.showcase .get-started-container h1{
+.showcase .getStartedContainer h1{
     font-size: 3.9rem;
 }
 
-.showcase .get-started-container .para-1{
+.showcase .getStartedContainer .para-1{
     font-size: 1.7rem;
 }
 
-.showcase .get-started-container .para-2{
+.showcase .getStartedContainer .para-2{
     font-size: 1.2rem;
 }
 
-.showcase .get-started-container input{
+.showcase .getStartedContainer input{
     width: 35%;
     padding: 22px;
     border: none;
@@ -117,7 +114,7 @@ h2 {
     outline: none;
 }
 
-.showcase .get-started-container button{
+.showcase .getStartedContainer button{
     padding: 22px;
     border: none;
     background-color: #e50914;
