@@ -613,3 +613,58 @@ window.addEventListener('scroll' , () => {
                 image: "https://www.imdb.com/title/tt12004280/mediaviewer/rm2852970497/?ref_=tt_ov_i", //Image URL's
                 preview: "https://www.youtube.com/watch?v=2JgPJpgnut4",  //Trailer URL's
             },
+            {   id: "TV Shows", //Movie row name
+                title: "Arrow", //Title
+                genre: "Action, Adventure, Crime", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2012, //When the movie is available to watch
+                description: "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.", //Description of the movie
+                image: "https://www.imdb.com/title/tt2193021/mediaviewer/rm4037055745/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=XQS7JkQmlx8",  //Trailer URL's
+            },
+            {   id: "TV Shows", //Movie row name
+                title: "Supergirl", //Title
+                genre: "Action, Adventure, Crime", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2015, //When the movie is available to watch
+                description: "The adventures of Superman's cousin in her own superhero career.", //Description of the movie
+                image: "https://www.imdb.com/title/tt4016454/mediaviewer/rm1142014721/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=mlgL6FbqsVI",  //Trailer URL's
+            },
+            {   id: "TV Shows", //Movie row name
+                title: "She Hulk", //Title
+                genre: "Action, Adventure, Comedy", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2022, //When the movie is available to watch
+                description: "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.", //Description of the movie
+                image: "https://www.imdb.com/title/tt10857160/mediaviewer/rm2579826689/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=u7JsKhI2An0",  //Trailer URL's
+            }
+[Popular],//This is all the information about the Movies and TV Shows sorted within an array (eg. the id, title, genre, date available, description, image and trailer.)
+            {   id: "Popular", //Movie row name
+                title: "The karate kid", //Title
+                genre: "Action, Drama, Family", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 1984, //When the movie is available to watch
+                description: "A martial arts master agrees to teach karate to a bullied teenager.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0087538/mediaviewer/rm3598319872/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=xlnm0NtPoVs",  //Trailer URL's
+            },
+            {   id: "Popular", //Movie row name
+                title: "After", //Title
+                genre: "Drama, Romance", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2019, //When the movie is available to watch
+                description: "A young woman falls for a guy with a dark secret and the two embark on a rocky relationship. Based on the novel by Anna Todd.", //Description of the movie
+                image: "https://www.imdb.com/title/tt4126476/mediaviewer/rm3002365184/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=rPTf0Gw5-Bg",  //Trailer URL's
+            },
+            {   id: "Popular", //Movie row name
+                title: "Atlantis", //Title
+                genre: "Annimation", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2001, //When the movie is available to watch
+                description: "A young linguist named Milo Thatch joins an intrepid group of explorers to find the mysterious lost continent of Atlantis", //Description of the movie
+                image: "https://www.imdb.com/title/tt0230011/mediaviewer/rm4262793984/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=sZIimDPZQwg",  //Trailer URL's
+            },
