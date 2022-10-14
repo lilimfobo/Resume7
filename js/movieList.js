@@ -1138,3 +1138,30 @@ window.addEventListener('scroll' , () => {
                 image: "https://www.imdb.com/title/tt10872600/mediaviewer/rm3936939521/?ref_=tt_ov_i", //Image URL's
                 preview: "https://www.youtube.com/watch?v=rt-2cxAiPJk",  //Trailer URL's
             },
+            {   id: "Watch it again!", //Movie row name
+                title: "I feel pretty", //Title
+                genre: "Romance, Drama, Comedy", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2018, //When the movie is available to watch
+                description: "A woman struggling with insecurity wakes from a fall believing she is the most beautiful and capable woman on the planet. Her new confidence empowers her to live fearlessly, but what happens when she realizes her appearance never changed?", //Description of the movie
+                image: "https://www.imdb.com/title/tt6791096/mediaviewer/rm3709684736/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=Yi60f1jPfto",  //Trailer URL's
+            },
+            {   id: "Watch it again!", //Movie row name
+                title: "The Vampire Diaries", //Title
+                genre: "Romance, Drama, Horror", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2009, //When the movie is available to watch
+                description: "The lives, loves, dangers and disasters in the town, Mystic Falls, Virginia. Creatures of unspeakable horror lurk beneath this town as a teenage girl is suddenly torn between two vampire brothers.", //Description of the movie
+                image: "https://www.imdb.com/title/tt1405406/mediaviewer/rm291273984/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=BmVmhjjkN4E&t=28s",  //Trailer URL's
+            },
+            {   id: "Watch it again!", //Movie row name
+                title: "Kuch Kuch Hota Hai", //Title
+                genre: "Romance, Drama, Musical", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 1998, //When the movie is available to watch
+                description: "During their college years, Anjali was in love with her best-friend Rahul, but he had eyes only for Tina. Years later, Rahul and the now-deceased Tina's eight-year-old daughter attempts to reunite her father and Anjali.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0172684/mediaviewer/rm38094080/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=OtGzATlvw_0",  //Trailer URL's
+            },
