@@ -57,3 +57,23 @@ window.addEventListener('scroll' , () => {
                 image: "https://www.imdb.com/title/tt13070038/mediaviewer/rm1802494977/?ref_=tt_ov_i", //Image URL's
                 preview: "https://www.youtube.com/watch?v=TlAukkPK-dc",  //Trailer URL's
             },
+            {
+                id: "Coming Soon", //Movie row name
+                title: "Cobra Kai", //Title
+                genre: "Action, Drama", //Genre
+                comingSoon: true, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2022, //When it is available to watch
+                description: "Decades after their 1984 All Valley Karate Tournament bout, a middle-aged Daniel LaRusso and Johnny Lawrence find themselves martial-arts rivals again.", //Description of the movie
+                image: "https://www.imdb.com/title/tt7221388/mediaviewer/rm2559052801/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=sUR9PYwlNaA",  //Trailer URL's
+            },
+            {
+                id: "Coming Soon", //Movie row name
+                title: "Bridgerton", //Title
+                genre: "Romance, Drama", //Genre
+                comingSoon: true, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2021, //When it is available to watch
+                description: "Wealth, lust, and betrayal set against the backdrop of Regency-era England, seen through the eyes of the powerful Bridgerton family.", //Description of the movie
+                image: "https://www.imdb.com/title/tt8740790/mediaviewer/rm4165081601/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=Bs9r1UbmFAI",  //Trailer URL's
+            },
