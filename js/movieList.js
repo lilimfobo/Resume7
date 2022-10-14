@@ -487,3 +487,57 @@ window.addEventListener('scroll' , () => {
                 image: "https://www.imdb.com/title/tt4574334/mediaviewer/rm3336115457/?ref_=tt_ov_i", //Image URL's
                 preview: "https://www.youtube.com/watch?v=b9EkMc79ZSU",  //Trailer URL's
             },
+            {   id: "TV Shows", //Movie row name
+                title: "The Queens Gambit", //Title
+                genre: "Drama", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2020, //When the movie is available to watch
+                description: "Orphaned at the tender age of nine, prodigious introvert Beth Harmon discovers and masters the game of chess in 1960s USA. But child stardom comes at a price.", //Description of the movie
+                image: "https://www.imdb.com/title/tt10048342/mediaviewer/rm1650697985/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=oZn3qSgmLqI",  //Trailer URL's
+            },
+            {   id: "TV Shows", //Movie row name
+                title: "The Flash", //Title
+                genre: "Drama, Action, Adventure", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2014, //When the movie is available to watch
+                description: "After being struck by lightning, Barry Allen wakes up from his coma to discover he's been given the power of super speed, becoming the Flash, and fighting crime in Central City.", //Description of the movie
+                image: "https://www.imdb.com/title/tt3107288/mediaviewer/rm105957889/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=Yj0l7iGKh8g",  //Trailer URL's
+            },
+            {   id: "TV Shows", //Movie row name
+                title: "The vampire diaries", //Title
+                genre: "Drama, Fantasy, Horror", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2009, //When the movie is available to watch
+                description: "The lives, loves, dangers and disasters in the town, Mystic Falls, Virginia. Creatures of unspeakable horror lurk beneath this town as a teenage girl is suddenly torn between two vampire brothers.", //Description of the movie
+                image: "https://www.imdb.com/title/tt1405406/mediaviewer/rm291273984/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=BmVmhjjkN4E",  //Trailer URL's
+            },
+            {   id: "TV Shows", //Movie row name
+                title: "The originals", //Title
+                genre: "Drama, Fantasy, Horror", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2013, //When the movie is available to watch
+                description: "A family of power-hungry thousand-year-old vampires look to take back the city that they built and dominate all those who have done them wrong.", //Description of the movie
+                image: "https://www.imdb.com/title/tt2632424/mediaviewer/rm3180033792/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=GXrDYboUnnw",  //Trailer URL's
+            },
+            {   id: "TV Shows", //Movie row name
+                title: "Teen Wolf", //Title
+                genre: "Drama, Fantasy, Horror", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2011, //When the movie is available to watch
+                description: "An average high school student and his best friend get caught up in some trouble causing him to receive a werewolf bite. As a result they find themselves in the middle of all sorts of dramas in Beacon Hills.", //Description of the movie
+                image: "https://www.imdb.com/title/tt1567432/mediaviewer/rm3833557760/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=1rCYDbefnmA",  //Trailer URL's
+            },
+            {   id: "TV Shows", //Movie row name
+                title: "Teen Wolf", //Title
+                genre: "Drama, Fantasy, Horror", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2022, //When the movie is available to watch
+                description: "In a world of privilege and glamour, two young women's friendship transcends their strikingly different classes as they prepare to complete their education and enter royal vampire society.", //Description of the movie
+                image: "https://www.imdb.com/title/tt14689620/mediaviewer/rm3179023617/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=Gw_xrllOGu0",  //Trailer URL's
+            },
