@@ -77,3 +77,23 @@ window.addEventListener('scroll' , () => {
                 image: "https://www.imdb.com/title/tt8740790/mediaviewer/rm4165081601/?ref_=tt_ov_i", //Image URL's
                 preview: "https://www.youtube.com/watch?v=Bs9r1UbmFAI",  //Trailer URL's
             },
+            {
+                id: "Coming Soon", //Movie row name
+                title: "Fate the winx saga", //Title
+                genre: "Action, Drama, Romance, Fantasy", //Genre
+                comingSoon: true, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2022, //When it is available to watch
+                description: "A live-action adaptation of Nickelodeon's Winx Club (2004). It follows Bloom as she adjusts to life in the Otherworld, where she must learn to control her dangerous magical powers.", //Description of the movie
+                image: "https://www.imdb.com/title/tt8179402/mediaviewer/rm68015617/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=YlNEvyjEWLQ",  //Trailer URL's
+            },
+            {
+                id: "Coming Soon", //Movie row name
+                title: "Elektra", //Title
+                genre: "Romance, Drama, Action", //Genre
+                comingSoon: true, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2005, //When it is available to watch
+                description: "Wealth, lust, and betrayal set against the backdrop of Regency-era England, seen through the eyes of the powerful Bridgerton family.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0357277/mediaviewer/rm839355392/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=XGnADb5e0mc",  //Trailer URL's
+            },
