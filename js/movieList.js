@@ -1120,3 +1120,21 @@ window.addEventListener('scroll' , () => {
             image: "https://www.imdb.com/title/tt10886166/mediaviewer/rm3937276417/?ref_=tt_ov_i", //Image URL's
             preview: "https://www.youtube.com/watch?v=aXtNikiU9lo",  //Trailer URL's
         },
+        {   id: "Watch it again!", //Movie row name
+                title: "The Cutting Edge", //Title
+                genre: "Romance, Drama, Action, Comedy", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2006, //When the movie is available to watch
+                description: "Two ice skaters (Christy Carlson Romano, Ross Thomas) develop a love-hate relationship while dreaming of Olympic glory.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0463953/mediaviewer/rm1294020096/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=FaGSq6acOtM",  //Trailer URL's
+            },
+            {   id: "Watch it again!", //Movie row name
+                title: "Spiderman No way home", //Title
+                genre: "Adventure, Drama, Action", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2021, //When the movie is available to watch
+                description: "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.", //Description of the movie
+                image: "https://www.imdb.com/title/tt10872600/mediaviewer/rm3936939521/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=rt-2cxAiPJk",  //Trailer URL's
+            },
