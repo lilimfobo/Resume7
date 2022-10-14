@@ -234,3 +234,18 @@ footer .content .middle select option{
         margin-top: 1.5%;
         padding: 12px;
     }
+
+    /*EMAIL ADDRESS*/
+    
+    .email-address-container input{
+        padding: 17px;
+        width: 55%;
+    }
+    .email-address-container button{
+        display: block;
+        display: flex;
+        align-items: center;
+        margin: 0 auto;
+        margin-top: 1.5%;
+        padding: 12px;
+    }
