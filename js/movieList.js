@@ -1196,3 +1196,6 @@ const imageValue = image.Value;
 
 localStorage.setItem ('comingSoon', comingSoonValue);
 localStorage.setItem ('image', imageValue);
+
+window.location.href="../Home Page/Watchlist/Watchlist.html";
+})
