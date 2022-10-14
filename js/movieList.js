@@ -803,3 +803,85 @@ window.addEventListener('scroll' , () => {
                 image: "https://www.imdb.com/title/tt1840309/mediaviewer/rm2855260672/?ref_=tt_ov_i", //Image URL's
                 preview: "https://www.youtube.com/watch?v=Aw7Eln_xuWc",  //Trailer URL's
             },
+            {   id: "Popular", //Movie row name
+                title: "Another cinderella story", //Title
+                genre: "Drama, Romance", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2008, //When the movie is available to watch
+                description: "Mary lives with her evil stepmom/sisters and slaves for them. At the high school masquerade ball, she gets to dance with her pop idol, Joey. Running home before midnight, she drops her Zune. Joey tries to find the girl who fits the Zune.", //Description of the movie
+                image: "https://www.imdb.com/title/tt1071358/mediaviewer/rm1686564096/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=dEpWl0kmJdQ",  //Trailer URL's
+            },
+            {   id: "Popular", //Movie row name
+                title: "The hating game", //Title
+                genre: "Comedy, Romance", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2021, //When the movie is available to watch
+                description: "Resolving to achieve professional success without compromising her ethics, Lucy embarks on a ruthless game of one-upmanship against cold and efficient nemesis Joshua, a rivalry that is complicated by her growing attraction to him.", //Description of the movie
+                image: "https://www.imdb.com/title/tt8718158/mediaviewer/rm2731337985/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=0D2sJiseGQA",  //Trailer URL's
+            }
+[Bollywood],//This is all the information about the Movies and TV Shows sorted within an array (eg. the id, title, genre, date available, description, image and trailer.)
+            {   id: "Bollywood", //Movie row name
+                title: "Hamari Adhuri Kahani", //Title
+                genre: "Drama, Romance", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2015, //When the movie is available to watch
+                description: "A single mother finds solace with a wealthy, but lonely hotel magnate, together they find love until her past comes back to confront her.", //Description of the movie
+                image: "https://www.imdb.com/title/tt3483612/mediaviewer/rm4036485120/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=2fiT_TJlySk",  //Trailer URL's
+            },
+            {   id: "Bollywood", //Movie row name
+                title: "Sanam Teri Kasam", //Title
+                genre: "Drama, Romance, Musical", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2016, //When the movie is available to watch
+                description: "After being disowned by her family, an awkward librarian relies on the help of her brooding neighbour.", //Description of the movie
+                image: "https://www.imdb.com/title/tt5255710/mediaviewer/rm2452386560/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=1IpBoMWRjm8",  //Trailer URL's
+            },
+            {   id: "Bollywood", //Movie row name
+                title: "Kuch Kuch hota hai", //Title
+                genre: "Drama, Romance, Musical", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 1998, //When the movie is available to watch
+                description: "During their college years, Anjali was in love with her best-friend Rahul, but he had eyes only for Tina. Years later, Rahul and the now-deceased Tina's eight-year-old daughter attempts to reunite her father and Anjali.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0172684/mediaviewer/rm38094080/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=OtGzATlvw_0",  //Trailer URL's
+            },
+            {   id: "Bollywood", //Movie row name
+                title: "Khabhi Khushi Khabhi Gham", //Title
+                genre: "Drama, Romance, Musical", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2001, //When the movie is available to watch
+                description: "After marrying a poor woman, rich Rahul is disowned by his father and moves to London to build a new life. Years later, his now-grown younger brother Rohan embarks on a mission to bring Rahul back home and reunite the family.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0248126/mediaviewer/rm1675315968/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=7uY1JbWZKPA",  //Trailer URL's
+            },
+            {   id: "Bollywood", //Movie row name
+                title: "Dil Hai Tumhaara", //Title
+                genre: "Drama, Romance, Musical", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2002, //When the movie is available to watch
+                description: "Raising her two daughters, Saritaji 'Rekha' fears that history might repeat itself when both of them fall for the same guy.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0328998/mediaviewer/rm348495104/?ref_=tt_ov_i", //Image URL's
+                preview: " 'no available trailer' ",  //Trailer URL's
+            },
+            {   id: "Bollywood", //Movie row name
+                title: "Tu Junooniyat", //Title
+                genre: "Drama, Romance, Musical", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2016, //When the movie is available to watch
+                description: "Captain Jahan Bakshi rescues a Punjabi girl, Suhani. This starts a friendship that evolves into a passionate love affair.", //Description of the movie
+                image: "https://www.imdb.com/title/tt3840534/mediaviewer/rm58725888/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=8vicEGLOEdw",  //Trailer URL's
+            },
+            {   id: "Bollywood", //Movie row name
+                title: "Ae dil hai mushkil", //Title
+                genre: "Drama, Romance, Musical", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2016, //When the movie is available to watch
+                description: "This story explores love - the shapes it takes, the ways it changes us and the exhilarating and often terrifying ride it takes us on. It is the journey of two characters, Alizeh and Ayan, as they navigate life, love and heartbreak.", //Description of the movie
+                image: "https://www.imdb.com/title/tt4559006/mediaviewer/rm2839587073/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=Z_PODraXg4E",  //Trailer URL's
+            },
