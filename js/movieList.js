@@ -1102,3 +1102,21 @@ window.addEventListener('scroll' , () => {
                 image: "https://www.imdb.com/title/tt0400497/mediaviewer/rm311860480/?ref_=tt_ov_i", //Image URL's
                 preview: "https://www.youtube.com/watch?v=zD9De1OkJ4o",  //Trailer URL's
             },
+            {   id: "Watch it again!", //Movie row name
+            title: "The Mummy", //Title
+            genre: "Adventure, Action, Thriller", //Genre
+            comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+            availDate: 2017, //When the movie is available to watch
+            description: "An ancient Egyptian princess is awakened from her crypt beneath the desert, bringing with her malevolence grown over millennia, and terrors that defy human comprehension.", //Description of the movie
+            image: "https://www.imdb.com/title/tt2345759/mediaviewer/rm3980788736/?ref_=tt_ov_i", //Image URL's
+            preview: "https://www.youtube.com/watch?v=IjHgzkQM2Sg",  //Trailer URL's
+        },
+        {   id: "Watch it again!", //Movie row name
+            title: "365 Days", //Title
+            genre: "Romance, Drama", //Genre
+            comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+            availDate: 2020, //When the movie is available to watch
+            description: "Massimo is a member of the Sicilian Mafia family and Laura is a sales director. She does not expect that on a trip to Sicily trying to save her relationship, Massimo will kidnap her and give her 365 days to fall in love with him.", //Description of the movie
+            image: "https://www.imdb.com/title/tt10886166/mediaviewer/rm3937276417/?ref_=tt_ov_i", //Image URL's
+            preview: "https://www.youtube.com/watch?v=aXtNikiU9lo",  //Trailer URL's
+        },
