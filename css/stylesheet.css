@@ -274,3 +274,25 @@ footer .content .middle select option{
         right: 40px;
         padding: 2px 10px;
     }
+
+    /* GET STARTED */
+
+    .showcase .get-started-container{
+        position: relative;
+        top: 60px;
+    }
+    .showcase .get-started-container h1{
+        font-size: 2rem;
+        padding: 50px;
+        padding-bottom: 0px;
+    }
+    .showcase .get-started-container .para-1{
+        font-size: 1.5rem;
+    }
+    .showcase .get-started-container .para-2{
+        font-size: 1rem;
+    }
+    .showcase .get-started-container input{
+        padding: 14px;
+        width: 70%;
+    }
