@@ -668,3 +668,75 @@ window.addEventListener('scroll' , () => {
                 image: "https://www.imdb.com/title/tt0230011/mediaviewer/rm4262793984/?ref_=tt_ov_i", //Image URL's
                 preview: "https://www.youtube.com/watch?v=sZIimDPZQwg",  //Trailer URL's
             },
+            {   id: "Popular", //Movie row name
+                title: "Dirty Dancing", //Title
+                genre: "Drama, Music, Romance", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 1987, //When the movie is available to watch
+                description: "Spending the summer at a Catskills resort with her family, Frances 'Baby' Houseman falls in love with the camp's dance instructor, Johnny Castle.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0092890/mediaviewer/rm4168602624/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=eIcmQNy9FsM",  //Trailer URL's
+            },
+            {   id: "Popular", //Movie row name
+                title: "How to train your dragon", //Title
+                genre: "Annimation", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2010, //When the movie is available to watch
+                description: "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0892769/mediaviewer/rm2210040832/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=oKiYuIsPxYk",  //Trailer URL's
+            },
+            {   id: "Popular", //Movie row name
+                title: "Grease", //Title
+                genre: "Comedy, Musical, Romance", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 1978, //When the movie is available to watch
+                description: "Good girl Sandy Olsson and greaser Danny Zuko fell in love over the summer. When they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance?", //Description of the movie
+                image: "https://www.imdb.com/title/tt0077631/mediaviewer/rm371555328/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=qDKo8DNpwOw",  //Trailer URL's
+            },
+            {   id: "Popular", //Movie row name
+                title: "Enough", //Title
+                genre: "Crime, Drama, Thriller", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2002, //When the movie is available to watch
+                description: "After running away fails, a terrified woman empowers herself in order to battle her abusive husband.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0278435/mediaviewer/rm2388594176/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=L1WWhWsvOZg",  //Trailer URL's
+            },
+            {   id: "Popular", //Movie row name
+                title: "How to lose a guy in 10 days", //Title
+                genre: "Comedy, Romance", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2003, //When the movie is available to watch
+                description: "Benjamin Barry is an advertising executive and ladies' man who, to win a big campaign, bets that he can make a woman fall in love with him in 10 days.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0251127/mediaviewer/rm1893636352/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=2ZMGk_Ml1fc",  //Trailer URL's
+            },
+            {   id: "Popular", //Movie row name
+                title: "Saturday Night Fever", //Title
+                genre: "Drama, Musical", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 1977, //When the movie is available to watch
+                description: "Anxious about his future after high school, a 19-year-old Italian-American from Brooklyn tries to escape the harsh reality of his bleak family life by dominating the dance floor at the local disco.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0076666/mediaviewer/rm4215872768/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=RZTP586-Y9E",  //Trailer URL's
+            },
+            {   id: "Popular", //Movie row name
+                title: "Captain America", //Title
+                genre: "Action, Adventure, Sci-Fi", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2011, //When the movie is available to watch
+                description: "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a 'Super-Soldier serum'. But being Captain America comes at a price as he attempts to take down a warmonger and a terrorist organization.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0458339/mediaviewer/rm2438905344/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=JerVrbLldXw",  //Trailer URL's
+            },
+            {   id: "Popular", //Movie row name
+                title: "Venom", //Title
+                genre: "Action, Adventure, Sci-Fi", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2018, //When the movie is available to watch
+                description: "A failed reporter is bonded to an alien entity, one of many symbiotes who have invaded Earth. But the being takes a liking to Earth and decides to protect it.", //Description of the movie
+                image: "https://www.imdb.com/title/tt1270797/mediaviewer/rm629808385/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=u9Mv98Gr5pY",  //Trailer URL's
+            },
