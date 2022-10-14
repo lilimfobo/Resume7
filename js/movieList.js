@@ -1189,9 +1189,10 @@ const comingSoon = document.getElementById ('comingSoon');
 const image = document.getElementById ('image');
 
 comingSoon.addEventListener ('submit', function(){
-    e.preventDefault();
+e.preventDefault();
 
-    const comingSoonValue = comingSoon.value;
-    const imageValue = image.Value;
+const comingSoonValue = comingSoon.value;
+const imageValue = image.Value;
 
-    
+localStorage.setItem ('comingSoon', comingSoonValue);
+localStorage.setItem ('image', imageValue);
