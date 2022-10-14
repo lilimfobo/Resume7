@@ -209,24 +209,24 @@ footer .content .middle select option{
     
     /*GET STARTED*/
 
-    .showcase .get-started-container{
+    .showcase .getStartedContainer{
         position: relative;
         top: 90px;
     }
-    .showcase .get-started-container h1{
+    .showcase .getStartedContainer h1{
         font-size: 3.4rem;
     }
-    .showcase .get-started-container .para-1{
+    .showcase .getStartedContainer .para-1{
         font-size: 1.5rem;
     }
-    .showcase .get-started-container .para-2{
+    .showcase .getStartedContainer .para-2{
         font-size: 1rem;
     }
-    .showcase .get-started-container input{
+    .showcase .getStartedContainer input{
         padding: 17px;
         width: 55%;
     }
-    .showcase .get-started-container button{
+    .showcase .getStartedContainer button{
         display: block;
         display: flex;
         align-items: center;
