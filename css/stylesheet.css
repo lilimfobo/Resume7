@@ -222,3 +222,15 @@ footer .content .middle select option{
     .showcase .get-started-container .para-2{
         font-size: 1rem;
     }
+    .showcase .get-started-container input{
+        padding: 17px;
+        width: 55%;
+    }
+    .showcase .get-started-container button{
+        display: block;
+        display: flex;
+        align-items: center;
+        margin: 0 auto;
+        margin-top: 1.5%;
+        padding: 12px;
+    }
