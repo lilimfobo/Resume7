@@ -11,3 +11,9 @@
 	position: relative;
 	background: url('https://i.ibb.co/vXqDmnh/background.jpg') no-repeat center center/cover;
 }
+
+.showcase::after {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
