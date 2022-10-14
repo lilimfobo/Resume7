@@ -1183,3 +1183,7 @@ window.addEventListener('scroll' , () => {
             image: "https://www.imdb.com/title/tt1293847/mediaviewer/rm2237479424/?ref_=tt_ov_i", //Image URL's
             preview: "https://www.youtube.com/watch?v=xEuM4IUFWu8",  //Trailer URL's
         }
+
+/* These were supposed to be my functions to add the desired movies to a watchlist to which to could've deleted and played the trailers from but unfortunately I could not figure it out for the function to work adequately  */
+const comingSoon = document.getElementById ('comingSoon');
+const image = document.getElementById ('image');
