@@ -175,3 +175,16 @@ footer .content{
     flex-wrap: wrap;
     justify-content: space-between;
   }
+
+  footer .content .box{
+    width: 20%;
+    transition: all 0.4s ease;
+  }
+  
+  footer .content p{
+    text-align: justify;
+  }
+
+  footer .content .middle{
+    padding-left: 80px;
+  }
