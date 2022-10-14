@@ -134,6 +134,7 @@ h2 {
     padding-bottom: 4%;
     background-color: black;
 }
+
 .emailAddressContainer input{
     width: 35%;
     padding: 22px;
@@ -141,6 +142,7 @@ h2 {
     margin-top: 0.5%;
     outline: none;
 }
+
 .emailAddressContainer button{
     padding: 22px;
     border: none;
@@ -151,3 +153,25 @@ h2 {
 }
 
 /*EMAIL ADDRESS ENDS*/
+
+/* FOOTER SECTION STARTS */
+footer{
+    background-color: black;
+    border-top: 8px solid #222;
+    padding-top: 5%;
+}
+
+footer h5{
+    color: white;
+    text-align: center;
+    padding-bottom: 1%;
+}
+  
+footer .content{
+    max-width: 1350px;
+    margin: 0px 90px;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
