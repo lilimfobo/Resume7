@@ -46,6 +46,7 @@
     position: relative;
     right: 55px;
 }
+
 .showcase-top select{
     background-color: transparent;
     color: white;
@@ -54,4 +55,20 @@
     float: right;
     position: relative;
     right: 85px;
+}
+
+.showcase-top select option{
+    color: black;
+}
+/*GET STARTED*/
+.showcase .get-started-container{
+    z-index: 2;
+    position: relative;
+    text-align: center;
+    position: relative;
+    top: 180px;
+    width: 100%;
+}
+.showcase .get-started-container h1,p{
+    color: white;
 }
