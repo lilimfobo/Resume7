@@ -117,3 +117,33 @@ window.addEventListener('scroll' , () => {
                 image: "https://www.imdb.com/title/tt6474378/mediaviewer/rm255903745/?ref_=tt_ov_i", //Image URL's
                 preview: "https://www.youtube.com/watch?v=kbjIaPzODs0",  //Trailer URL's
             },
+            {
+                id: "Coming Soon", //Movie row name
+                title: "Good girls", //Title
+                genre: "Romance, Drama, Action", //Genre
+                comingSoon: true, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2021, //When it is available to watch
+                description: "Three suburban mothers suddenly find themselves in desperate circumstances and decide to stop playing it safe and risk everything to take back their power.", //Description of the movie
+                image: "https://www.imdb.com/title/tt6474378/mediaviewer/rm255903745/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=kbjIaPzODs0",  //Trailer URL's
+            },
+            {
+                id: "Coming Soon", //Movie row name
+                title: "He's all that", //Title
+                genre: "Romance, Drama, Comedy", //Genre
+                comingSoon: true, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2021, //When it is available to watch
+                description: "A teenage girl sets out to give a nebbish classmate the ultimate high school makeover. An updated remake of the 1999 film, 'She's All That'.", //Description of the movie
+                image: "https://www.imdb.com/title/tt4590256/mediaviewer/rm3629383425/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=XqTPaRz8Nx8",  //Trailer URL's
+            },
+            {
+                id: "Coming Soon", //Movie row name
+                title: "Riverdale", //Title
+                genre: "Romance, Drama, Suspense", //Genre
+                comingSoon: true, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2017, //When it is available to watch
+                description: "While navigating the troubled waters of romance, school and family, Archie and his gang become entangled in dark Riverdale mysteries.", //Description of the movie
+                image: "https://www.imdb.com/title/tt5420376/mediaviewer/rm3364035073/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=HxtLlByaYTc",  //Trailer URL's
+            },
