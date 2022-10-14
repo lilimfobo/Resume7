@@ -1187,3 +1187,6 @@ window.addEventListener('scroll' , () => {
 /* These were supposed to be my functions to add the desired movies to a watchlist to which to could've deleted and played the trailers from but unfortunately I could not figure it out for the function to work adequately  */
 const comingSoon = document.getElementById ('comingSoon');
 const image = document.getElementById ('image');
+
+comingSoon.addEventListener ('submit', function(){
+    e.preventDefault();
