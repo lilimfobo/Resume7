@@ -264,4 +264,13 @@ footer .content .middle select option{
     .showcase-top #logo{
         height: 25px;
     }
-
+    .showcase-top .submit{
+        position: relative;
+        right: 25px;
+        padding: 2px 10px;
+    }
+    .showcase-top select{
+        position: relative;
+        right: 40px;
+        padding: 2px 10px;
+    }
