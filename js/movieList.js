@@ -740,3 +740,66 @@ window.addEventListener('scroll' , () => {
                 image: "https://www.imdb.com/title/tt1270797/mediaviewer/rm629808385/?ref_=tt_ov_i", //Image URL's
                 preview: "https://www.youtube.com/watch?v=u9Mv98Gr5pY",  //Trailer URL's
             },
+            {   id: "Popular", //Movie row name
+                title: "Transformers", //Title
+                genre: "Action, Adventure, Sci-Fi", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2007, //When the movie is available to watch
+                description: "An ancient struggle between two Cybertronian races, the heroic Autobots and the evil Decepticons, comes to Earth, with a clue to the ultimate power held by a teenager.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0418279/mediaviewer/rm1443106304/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=dxQxgAfNzyE",  //Trailer URL's
+            },
+            {   id: "Popular", //Movie row name
+                title: "Jumper", //Title
+                genre: "Action, Adventure, Sci-Fi, Romance", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2007, //When the movie is available to watch
+                description: "A teenager with teleportation abilities suddenly finds himself in the middle of an ancient war between those like him and their sworn annihilators.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0489099/mediaviewer/rm3268382720/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=DtacNQkFHvo",  //Trailer URL's
+            },
+            {   id: "Popular", //Movie row name
+                title: "The last airbender", //Title
+                genre: "Action, Adventure, Family", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2010, //When the movie is available to watch
+                description: "Follows the adventures of Aang, a young successor to a long line of Avatars, who must master all four elements and stop the Fire Nation from enslaving the Water Tribes and the Earth Kingdom.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0938283/mediaviewer/rm549880576/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=WdoiHMCVqMQ",  //Trailer URL's
+            },
+            {   id: "Popular", //Movie row name
+                title: "Pacific Rim", //Title
+                genre: "Action, Adventure, Sci-Fi", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2018, //When the movie is available to watch
+                description: "Jake Pentecost, son of Stacker Pentecost, reunites with Mako Mori to lead a new generation of Jaeger pilots, including rival Lambert and 15-year-old hacker Amara, against a new Kaiju threat.", //Description of the movie
+                image: "https://www.imdb.com/title/tt2557478/mediaviewer/rm498354944/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=_EhiLLOhVis",  //Trailer URL's
+            },
+            {   id: "Popular", //Movie row name
+                title: "Avatar", //Title
+                genre: "Action, Adventure, Sci-Fi, Romance, Fantasy", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2009, //When the movie is available to watch
+                description: "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0499549/mediaviewer/rm371527425/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=5PSNL1qE6VY",  //Trailer URL's
+            },
+            {   id: "Popular", //Movie row name
+                title: "The Hunger Games", //Title
+                genre: "Action, Adventure, Sci-Fi, Romance", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2012, //When the movie is available to watch
+                description: "Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death", //Description of the movie
+                image: "https://www.imdb.com/title/tt1392170/mediaviewer/rm2868031744/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=mfmrPu43DF8",  //Trailer URL's
+            },
+            {   id: "Popular", //Movie row name
+                title: "Divergent", //Title
+                genre: "Action, Adventure, Sci-Fi, Romance", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2014, //When the movie is available to watch
+                description: "In a world divided by factions based on virtues, Tris learns she's Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.", //Description of the movie
+                image: "https://www.imdb.com/title/tt1840309/mediaviewer/rm2855260672/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=Aw7Eln_xuWc",  //Trailer URL's
+            },
