@@ -253,4 +253,15 @@ footer .content .middle select option{
     /* FOOTER SECTION */
     footer .content .box{
         width: 50%;
-      }
+    }
+}
+
+@media(max-width: 659px){
+    /*NAVBAR*/
+    .showcase-top{
+        padding: 26px 0px 0px 25px;
+    }
+    .showcase-top #logo{
+        height: 25px;
+    }
+
