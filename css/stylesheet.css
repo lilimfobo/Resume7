@@ -6,6 +6,27 @@
 
 /* MAIN SECTION STARTS */
 
+.introduction .welcome {
+    display: flex;
+}
+
+.introduction .welcome input {
+    margin-left: 1rem;
+    flex: 1 1 0%;
+    min-width: 0;
+}
+
+h2 {
+    color: white;
+}
+
+.introduction .welcome,
+.introduction .welcome input {
+	color: white;
+	font-size: 2rem;
+	font-weight: bolder;
+}
+
 .showcase {
 	width: 100%;
 	height: 100vh;
