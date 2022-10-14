@@ -196,3 +196,11 @@ footer .content .middle select option{
 }
 
 /* FOOTER SECTION ENDS */
+
+/*RESPONSIVE CSS CODE*/
+
+@media (max-width:1100px) {
+    footer .content .middle{
+      padding-left: 50px;
+    }
+}
