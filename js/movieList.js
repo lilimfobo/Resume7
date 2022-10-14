@@ -147,3 +147,33 @@ window.addEventListener('scroll' , () => {
                 image: "https://www.imdb.com/title/tt5420376/mediaviewer/rm3364035073/?ref_=tt_ov_i", //Image URL's
                 preview: "https://www.youtube.com/watch?v=HxtLlByaYTc",  //Trailer URL's
             },
+            {
+                id: "Coming Soon", //Movie row name
+                title: "Blood & Water", //Title
+                genre: "Romance, Drama, Suspense", //Genre
+                comingSoon: true, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2020, //When it is available to watch
+                description: "A local teen uncovers her family's secret past and navigates the complicated world of a South African high school.", //Description of the movie
+                image: "https://www.imdb.com/title/tt9839146/mediaviewer/rm2013050369/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=2m0Cm2kMOBU",  //Trailer URL's
+            },
+            {
+                id: "Coming Soon", //Movie row name
+                title: "The Sandman", //Title
+                genre: "Drama, Suspense, Action, Fantasy", //Genre
+                comingSoon: true, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2022, //When it is available to watch
+                description: "Upon escaping after decades of imprisonment by a mortal wizard, Dream, the personification of dreams, sets about to reclaim his lost equipment.", //Description of the movie
+                image: "https://www.imdb.com/title/tt1751634/mediaviewer/rm1255999489/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=83ClbRPRDXU",  //Trailer URL's
+            },
+            {
+                id: "Coming Soon", //Movie row name
+                title: "Dynasty", //Title
+                genre: "Drama, Romance, Suspense", //Genre
+                comingSoon: true, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2017, //When it is available to watch
+                description: "Follows two of America's wealthiest families as they feud for control over their fortune and their children.", //Description of the movie
+                image: "https://www.imdb.com/title/tt6128300/mediaviewer/rm3760394753/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=Uq0soWMpkv8",  //Trailer URL's
+            },
