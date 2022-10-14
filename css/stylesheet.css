@@ -127,7 +127,7 @@ h2 {
     outline: none;
 }
 
-/* .yourName input{
+.yourName input{
     width: 60%;
     padding: 22px;
     border: none;
@@ -135,7 +135,7 @@ h2 {
     outline: none;
     color: white;
     background-color: black;
-} */
+}
 
 .emailAddressContainer button{
     padding: 22px;
