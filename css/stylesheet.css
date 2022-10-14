@@ -127,7 +127,7 @@ h2 {
     outline: none;
 }
 
-.yourName input{
+#yourName input{
     width: 35%;
     padding: 22px;
     border: none;
@@ -249,7 +249,7 @@ footer .content .middle select option{
         padding: 17px;
         width: 55%;
     }
-    .yourName input{
+    #yourName input{
         padding: 17px;
         width: 55%;
     }
@@ -312,11 +312,11 @@ footer .content .middle select option{
 
     /*EMAIL ADDRESS*/
     .emailAddressContainer input
-    .yourName input{
+    #yourName input{
         padding: 14px;
         width: 70%;
     }
-    .yourName input{
+    #yourName input{
         padding: 17px;
         width: 55%;
     }
@@ -342,7 +342,7 @@ footer .content .middle select option{
         padding: 12px;
         width: 80%;
     }
-    .yourName input{
+    #yourName input{
         padding: 17px;
         width: 55%;
     }
