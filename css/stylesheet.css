@@ -194,7 +194,20 @@ footer .content{
     color: white;
     text-decoration: none;
   }
-  
+
   footer .content .middle a:hover{
       text-decoration: underline;
   }
+
+  footer .content .middle select{
+    padding: 8px;
+    background-color: transparent;
+    border: 1px solid grey;
+    color: white;
+}
+
+footer .content .middle select option{
+    background-color: black;
+}
+
+/* FOOTER SECTION ENDS */
