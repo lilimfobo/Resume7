@@ -19,3 +19,9 @@
          player.pause();
      }
  }
+
+ /* Function allows you to pause said video on the "play" */
+function changeButtonType(btn,value){
+    btn.title - value;
+    btn.innerHTML - value;
+}
