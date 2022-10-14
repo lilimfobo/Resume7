@@ -885,3 +885,157 @@ window.addEventListener('scroll' , () => {
                 image: "https://www.imdb.com/title/tt4559006/mediaviewer/rm2839587073/?ref_=tt_ov_i", //Image URL's
                 preview: "https://www.youtube.com/watch?v=Z_PODraXg4E",  //Trailer URL's
             },
+            {   id: "Bollywood", //Movie row name
+                title: "Dilwale Dulhania le jeyenge", //Title
+                genre: "Drama, Romance, Musical", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 1995, //When the movie is available to watch
+                description: "When Raj meets Simran in Europe, it isn't love at first sight but when Simran moves to India for an arranged marriage, love makes its presence felt.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0112870/mediaviewer/rm3140497664/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=oIZ4U21DRlM",  //Trailer URL's
+            },
+            {   id: "Bollywood", //Movie row name
+                title: "Kabir Singh", //Title
+                genre: "Drama, Romance", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2019, //When the movie is available to watch
+                description: "An exalted but short-fused surgeon plunges into a spiral of drugs, alcohol and rage after his intense relationship with his girlfriend turbulently ends.", //Description of the movie
+                image: "https://www.imdb.com/title/tt8983202/mediaviewer/rm3250690049/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=RiANSSgCuJk",  //Trailer URL's
+            },
+            {   id: "Bollywood", //Movie row name
+                title: "Om Shanti Om", //Title
+                genre: "Drama, Romance, Mystery", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2007, //When the movie is available to watch
+                description: "In the 1970s, Om, an aspiring actor, is murdered, but is immediately reincarnated into the present day. He attempts to discover the mystery of his demise and find Shanti, the love of his previous life.", //Description of the movie
+                image: "https://www.imdb.com/title/tt1024943/mediaviewer/rm3298484225/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=9oeGoQGt7Ao",  //Trailer URL's
+            },
+            {   id: "Bollywood", //Movie row name
+                title: "Student of the year", //Title
+                genre: "Drama, Romance", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2012, //When the movie is available to watch
+                description: "Several alumni reminisce about their final year at St. Theresa's College and the events that shaped their lives.", //Description of the movie
+                image: "https://www.imdb.com/title/tt2172071/mediaviewer/rm149442304/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=fivOhPjX9YM",  //Trailer URL's
+            },
+            {   id: "Bollywood", //Movie row name
+                title: "Half Girlfriend", //Title
+                genre: "Drama, Romance", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2017, //When the movie is available to watch
+                description: "Madhav meets a girl named Riya and falls in love. After stuggling to convince her to be his girlfriend, she half heartedly agrees to be his 'Half Girlfriend'", //Description of the movie
+                image: "https://www.imdb.com/title/tt5474042/mediaviewer/rm2862887168/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=KmlBnmyelHI",  //Trailer URL's
+            },
+            {   id: "Bollywood", //Movie row name
+                title: "Bang Bang", //Title
+                genre: "Drama, Romance, Action, Comedy", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2014, //When the movie is available to watch
+                description: "A young bank receptionist gets mixed up with Rajveer Nanda, a man who has a mysterious background.", //Description of the movie
+                image: "https://www.imdb.com/title/tt2905838/mediaviewer/rm2154168320/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=MGXQ8bE6lW4",  //Trailer URL's
+            },
+            {   id: "Bollywood", //Movie row name
+                title: "Yeh Jawaani Hai Deewaani", //Title
+                genre: "Drama, Romance, Comedy", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2013, //When the movie is available to watch
+                description: "Kabir and Naina bond during a trekking trip. Before Naina can express herself, Kabir leaves India to pursue his career. They meet again years later, but he still cherishes his dreams more than bonds", //Description of the movie
+                image: "https://www.imdb.com/title/tt2178470/mediaviewer/rm906209024/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=Rbp2XUSeUNE",  //Trailer URL's
+            },
+            {   id: "Bollywood", //Movie row name
+                title: "Baar Baar Dekho", //Title
+                genre: "Drama, Romance, Comedy, Suspense", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2016, //When the movie is available to watch
+                description: "The highs and lows of a romantic relationship are examined through flashbacks and flash-forwards.", //Description of the movie
+                image: "https://www.imdb.com/title/tt5197544/mediaviewer/rm839598592/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=3uPtQp8ZT-Q",  //Trailer URL's
+            },
+            {   id: "Bollywood", //Movie row name
+                title: "Ram Leela", //Title
+                genre: "Drama, Romance", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2013, //When the movie is available to watch
+                description: "Modern adaptation of William Shakespeare's 'Romeo and Juliet' with an Indian twist, the film focuses on the story of Ram and Leela, their love, lust and the drama afterwards.", //Description of the movie
+                image: "https://www.imdb.com/title/tt2215477/mediaviewer/rm1132808704/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=StphRCLkx6Q",  //Trailer URL's
+            },
+            {   id: "Bollywood", //Movie row name
+                title: "The sky is pink", //Title
+                genre: "Drama, Romance", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2019, //When the movie is available to watch
+                description: "Based on the love story of a couple spanning 25 years and told through the lens of their spunky teenage daughter Aisha Chaudhary, who was diagnosed with pulmonary fibrosis.", //Description of the movie
+                image: "https://www.imdb.com/title/tt8902990/mediaviewer/rm2889127681/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=prwUFBsDRLk",  //Trailer URL's
+            },
+            {   id: "Bollywood", //Movie row name
+                title: "Bajirao Mastani", //Title
+                genre: "Drama, Romance", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2015, //When the movie is available to watch
+                description: "An account of the romance between the Maratha general, Baji Rao I and Mastani, princess of Bundelkhand.", //Description of the movie
+                image: "https://www.imdb.com/title/tt3735246/mediaviewer/rm1687478528/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=eHOc-4D7MjY",  //Trailer URL's
+            },
+            {   id: "Bollywood", //Movie row name
+                title: "Padmavaati", //Title
+                genre: "Drama, Romance", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2018, //When the movie is available to watch
+                description: "Set in medieval Rajasthan, Queen Padmavati is married to a noble king and they live in a prosperous fortress with their subjects until an ambitious Sultan hears of Padmavati's beauty and forms an obsessive love for the Queen of Mewar.", //Description of the movie
+                image: "https://www.imdb.com/title/tt5935704/mediaviewer/rm2907263744/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=X_5_BLt76c0",  //Trailer URL's
+            },   
+            {   id: "Bollywood", //Movie row name
+                title: "My name is Khan", //Title
+                genre: "Drama, Romance", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2010, //When the movie is available to watch
+                description: "An Indian Muslim man with Asperger's syndrome takes a challenge to speak to the President of the United States seriously and embarks on a cross-country journey.", //Description of the movie
+                image: "https://www.imdb.com/title/tt1188996/mediaviewer/rm396267264/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=nqxgYT3TYzY",  //Trailer URL's
+            }
+[WatchItAgain],//This is all the information about the Movies and TV Shows sorted within an array (eg. the id, title, genre, date available, description, image and trailer.)
+            {   id: "Watch it again!", //Movie row name
+                title: "To all the boys I've loved before", //Title
+                genre: "Drama, Romance, Comedy", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2018, //When the movie is available to watch
+                description: "A teenage girl's secret love letters are exposed and wreak havoc on her love life.", //Description of the movie
+                image: "https://www.imdb.com/title/tt3846674/mediaviewer/rm1569211648/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=555oiY9RWM4",  //Trailer URL's
+            },
+            {   id: "Watch it again!", //Movie row name
+                title: "Saturday Night fever", //Title
+                genre: "Drama, Music", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 1977, //When the movie is available to watch
+                description: "Anxious about his future after high school, a 19-year-old Italian-American from Brooklyn tries to escape the harsh reality of his bleak family life by dominating the dance floor at the local disco.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0076666/mediaviewer/rm4215872768/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=RZTP586-Y9E",  //Trailer URL's
+            },
+            {   id: "Watch it again!", //Movie row name
+                title: "Real Steel", //Title
+                genre: "Drama, Action, Sci-Fi", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2011, //When the movie is available to watch
+                description: "In the near future, robot boxing is a top sport. A struggling ex-boxer feels he's found a champion in a discarded robot.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0433035/mediaviewer/rm1078443008/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=T75j9CoBVzE",  //Trailer URL's
+            },
+            {   id: "Watch it again!", //Movie row name
+                title: "Top Gun", //Title
+                genre: "Drama, Action, Adventure", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 1986, //When the movie is available to watch
+                description: "As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom", //Description of the movie
+                image: "https://www.imdb.com/title/tt0092099/mediaviewer/rm2145457920/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=xa_z57UatDY",  //Trailer URL's
+            },
