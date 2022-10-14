@@ -70,8 +70,7 @@ h2 {
     position: relative;
     text-align: center;
     position: relative;
-    top: 180px;
-    width: 100%;
+    top: 10vh;
 }
 
 .showcase .getStartedContainer h1,p{
@@ -111,15 +110,24 @@ h2 {
 
 .emailAddressContainer{
     z-index: 2;
-    position: relative;
+    position:absolute;
     text-align: center;
     width: 100%;
-    padding-top: 4%;
-    padding-bottom: 4%;
+    padding-top: 2%;
+    padding-bottom: 2%;
     background-color: black;
+    bottom: 10vh;
 }
 
 .emailAddressContainer input{
+    width: 35%;
+    padding: 22px;
+    border: none;
+    margin-top: 0.5%;
+    outline: none;
+}
+
+.yourName input{
     width: 35%;
     padding: 22px;
     border: none;
@@ -356,14 +364,26 @@ footer .content .middle select option{
     
     /*NAVIGATION BAR*/
 
-    .showcase-top #logo{
+    .showcaseTop #logo{
         height: 22px;
     }
-    .showcase-top .submit{
+    .showcaseTop .submit{
         padding: 1px 5px;
     }
-    .showcase-top select{
+    .showcaseTop select{
         padding: 1px 0px;
         position: relative;
         right: 30px;
     }
+
+    /* GET STARTED */
+    .showcase .getStartedContainer h1{
+        font-size: 1.5rem;
+    }
+    .showcase .getStartedContainer .para-1{
+        font-size: 1.1rem;
+    }
+    .showcase .getStartedContainer .para-2{
+        font-size: 0.8rem;
+    }
+}
