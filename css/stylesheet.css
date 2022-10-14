@@ -313,3 +313,17 @@ footer .content .middle select option{
         width: 55%;
     }
 }
+
+@media (max-width: 500px){
+    .showcase .getStartedContainer h1{
+        font-size: 1.8rem;
+    }
+    .showcase .getStartedContainer .para-1{
+        font-size: 1.3rem;
+    }
+    .showcase .getStartedContainer .para-2{
+        font-size: 0.9rem;
+    }
+    .showcase .getStartedContainer input{
+        padding: 12px;
+        width: 80%;
