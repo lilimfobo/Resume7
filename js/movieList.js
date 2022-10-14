@@ -314,3 +314,176 @@ window.addEventListener('scroll' , () => {
                 image: "https://www.imdb.com/title/tt3799232/mediaviewer/rm1883393024/?ref_=tt_ov_i", //Image URL's
                 preview: "https://www.youtube.com/watch?v=7bfS6seiLhk",  //Trailer URL's
             },
+            {   id: "Movies", //Movie row name
+                title: "365 Days", //Title
+                genre: "Romance, Drama", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2018, //When the movie is available to watch
+                description: "Laura and Massimo are back and stronger than ever. But Massimo's family ties and a mysterious man bidding for Laura's heart complicate the lovers' lives.", //Description of the movie
+                image: "https://www.imdb.com/title/tt12996154/mediaviewer/rm185409025/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=pyM3z73oMAk",  //Trailer URL's
+            },
+            {   id: "Movies", //Movie row name
+                title: "Through my window", //Title
+                genre: "Romance, Drama", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2022, //When the movie is available to watch
+                description: "Raquel's longtime crush on her next-door neighbor turns into something more when he starts developing feelings for her, despite his family's objections.", //Description of the movie
+                image: "https://www.imdb.com/title/tt14463484/mediaviewer/rm2225206273/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=_zxhK3Z-R0c",  //Trailer URL's
+            },
+            {   id: "Movies", //Movie row name
+                title: "Madea Homecoming", //Title
+                genre: "Comedy, Drama", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2022, //When the movie is available to watch
+                description: "Madea's back hallelujer. And she's not putting up with any nonsense as family drama erupts at her great-grandson's college graduation celebration.", //Description of the movie
+                image: "https://www.imdb.com/title/tt14813966/mediaviewer/rm1211293953/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=afJXk-RgzoQ",  //Trailer URL's
+            },
+            {   id: "Movies", //Movie row name
+                title: "Senior Year", //Title
+                genre: "Comedy, Drama, Romance", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2022, //When the movie is available to watch
+                description: "The film stars Rebel Wilson (who also produced) as a 37-year-old woman who awakens from a 20-year coma and decides to go back to high school to earn her diploma", //Description of the movie
+                image: "https://www.imdb.com/title/tt5315212/mediaviewer/rm1148391425/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=HCtDkpe89aY",  //Trailer URL's
+            },
+            {   id: "Movies", //Movie row name
+                title: "The old guard", //Title
+                genre: "Action, Adventure, Fantasy", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2020, //When the movie is available to watch
+                description: "A covert team of immortal mercenaries is suddenly exposed and must now fight to keep their identity a secret just as an unexpected new member is discovered.", //Description of the movie
+                image: "https://www.imdb.com/title/tt7556122/mediaviewer/rm1029679361/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=aK-X2d0lJ_s",  //Trailer URL's
+            },
+            {   id: "Movies", //Movie row name
+                title: "A perfect pairing", //Title
+                genre: "Romance, Adventure, Romance", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2022, //When the movie is available to watch
+                description: "A Perfect Pairing is a 2022 American romantic comedy film. The film follows the story of Lola, an LA-based wine executive.", //Description of the movie
+                image: "https://www.imdb.com/title/tt15215512/mediaviewer/rm2253069569/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=WR21TH-6LfY",  //Trailer URL's
+            },
+            {   id: "Movies", //Movie row name
+                title: "Red Notice", //Title
+                genre: "Romance, Adventure, Action", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2021, //When the movie is available to watch
+                description: "An Interpol agent successfully tracks down the world's most wanted art thief, with help from a rival thief. But nothing is as it seems, as a series of double-crosses ensue.", //Description of the movie
+                image: "https://www.imdb.com/title/tt7991608/mediaviewer/rm2565534977/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=Pj0wz7zu3Ms",  //Trailer URL's
+            },
+            {   id: "Movies", //Movie row name
+                title: "American Underdog", //Title
+                genre: "Biopic", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2021, //When the movie is available to watch
+                description: "The story of NFL MVP and Hall of Fame quarterback Kurt Warner, who went from stocking shelves at a supermarket to becoming an American Football star.", //Description of the movie
+                image: "https://www.imdb.com/title/tt11729298/mediaviewer/rm770894081/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=_6rn-6lKBJ8",  //Trailer URL's
+            },
+            {   id: "Movies", //Movie row name
+                title: "Persuasion", //Title
+                genre: "Romance, Drama", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2022, //When the movie is available to watch
+                description: "Eight years after Anne Elliot was persuaded not to marry a dashing man of humble origins, they meet again. Will she seize her second chance at true love?", //Description of the movie
+                image: "https://www.imdb.com/title/tt13456318/mediaviewer/rm3416397569/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=Fz7HmgPJQak",  //Trailer URL's
+            },
+            {   id: "Movies", //Movie row name
+                title: "The Unforgivable", //Title
+                genre: "Crime, Drama", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2021, //When the movie is available to watch
+                description: "A woman is released from prison after serving a sentence for a violent crime and re-enters a society that refuses to forgive her past.", //Description of the movie
+                image: "https://www.imdb.com/title/tt11233960/mediaviewer/rm1014166785/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=JNUjx7LZoiU",  //Trailer URL's
+            },
+            {   id: "Movies", //Movie row name
+                title: "The Notebook", //Title
+                genre: "Romance, Drama", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2012, //When the movie is available to watch
+                description: "A poor yet passionate young man (Ryan Gosling) falls in love with a rich young woman (Rachel McAdams), giving her a sense of freedom, but they are soon separated because of their social differences.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0332280/mediaviewer/rm1153669376/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=yDJIcYE32NU",  //Trailer URL's
+            },
+            {   id: "Movies", //Movie row name
+                title: "Call me by your name", //Title
+                genre: "Romance, Drama", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2017, //When the movie is available to watch
+                description: "In 1980s Italy, romance blossoms between a seventeen-year-old student and the older man hired as his father's research assistant.", //Description of the movie
+                image: "https://www.imdb.com/title/tt5726616/mediaviewer/rm1422667008/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=Z9AYPxH5NTM",  //Trailer URL's
+            },
+            {   id: "Movies", //Movie row name
+                title: "Waves", //Title
+                genre: "Romance, Drama, Sport", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2019, //When the movie is available to watch
+                description: "Traces the journey of a suburban family - led by a well-intentioned but domineering father - as they navigate love, forgiveness, and coming together in the aftermath of a loss.", //Description of the movie
+                image: "https://www.imdb.com/title/tt8652728/mediaviewer/rm4250438145/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=V5z3cr8AB5g",  //Trailer URL's
+            },
+            {   id: "Movies", //Movie row name
+                title: "Endless Love", //Title
+                genre: "Romance, Drama", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2014, //When the movie is available to watch
+                description: "The story of a privileged girl and a charismatic boy whose instant desire sparks a love affair made only more reckless by parents trying to keep them apart.", //Description of the movie
+                image: "https://www.imdb.com/title/tt2318092/mediaviewer/rm3977501696/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=NTAzn4W48gc",  //Trailer URL's
+            },
+            {   id: "Movies", //Movie row name
+                title: "The lucky one", //Title
+                genre: "Romance, Drama, Mystery", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2012, //When the movie is available to watch
+                description: "A Marine travels to Louisiana after serving three tours in Iraq and searches for the unknown woman he believes was his good luck charm during the war.", //Description of the movie
+                image: "https://www.imdb.com/title/tt1327194/mediaviewer/rm4285707008/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=9w8lE83oYeM",  //Trailer URL's
+            },
+            {   id: "Movies", //Movie row name
+                title: "Love and Other drugs", //Title
+                genre: "Romance, Drama, Comedy", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2010, //When the movie is available to watch
+                description: "In 1990s Pittsburgh, a medicine peddler starts a relationship with a young woman suffering from Parkinson's disease.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0758752/mediaviewer/rm1047036160/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=h6w7Dh-QxzY",  //Trailer URL's
+            }
+
+[TVShows],//This is all the information about the Movies and TV Shows sorted within an array (eg. the id, title, genre, date available, description, image and trailer.)
+            {   id: "TV Shows", //Movie row name
+                title: "You", //Title
+                genre: "Crime, Drama, Romance", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2018, //When the movie is available to watch
+                description: "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.", //Description of the movie
+                image: "https://www.imdb.com/title/tt7335184/mediaviewer/rm3510108929/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=uAx8EGrUozE",  //Trailer URL's
+            },           
+            {   id: "TV Shows", //Movie row name
+                title: "Never have I ever", //Title
+                genre: "Comedy, Drama, Romance", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2020, //When the movie is available to watch
+                description: "The complicated life of a modern-day first generation Indian American teenage girl, inspired by Mindy Kaling's own childhood.", //Description of the movie
+                image: "https://www.imdb.com/title/tt10062292/mediaviewer/rm893454337/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=HyOCCCbxwMQ",  //Trailer URL's
+            },
+            {   id: "TV Shows", //Movie row name
+                title: "Stranger Things", //Title
+                genre: "Drama, Fantasy, Horror", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2016, //When the movie is available to watch
+                description: "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back", //Description of the movie
+                image: "https://www.imdb.com/title/tt4574334/mediaviewer/rm3336115457/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=b9EkMc79ZSU",  //Trailer URL's
+            },
