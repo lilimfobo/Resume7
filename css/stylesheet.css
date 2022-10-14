@@ -241,6 +241,11 @@ footer .content .middle select option{
         padding: 17px;
         width: 55%;
     }
+    .yourName input{
+        padding: 17px;
+        width: 55%;
+    }
+    
     .emailAddressContainer button{
         display: block;
         display: flex;
@@ -298,8 +303,13 @@ footer .content .middle select option{
     }
 
     /*EMAIL ADDRESS*/
-    .emailAddressContainer input{
+    .emailAddressContainer input
+    .yourName input{
         padding: 14px;
         width: 70%;
+    }
+    .yourName input{
+        padding: 17px;
+        width: 55%;
     }
 }
