@@ -1039,3 +1039,66 @@ window.addEventListener('scroll' , () => {
                 image: "https://www.imdb.com/title/tt0092099/mediaviewer/rm2145457920/?ref_=tt_ov_i", //Image URL's
                 preview: "https://www.youtube.com/watch?v=xa_z57UatDY",  //Trailer URL's
             },
+            {   id: "Watch it again!", //Movie row name
+                title: "Yu Gi Oh", //Title
+                genre: "Annimation", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2000, //When the movie is available to watch
+                description: "Yugi Moto solves an Ancient Egyptian Puzzle and brings forth a dark and powerful alter ego. Whenever he and his friends are threatened by evil in Duel Monster Card Game, this alter ego breaks out to save them.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0249327/mediaviewer/rm3306237184/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=FlZsX0nz1r4",  //Trailer URL's
+            },
+            {   id: "Watch it again!", //Movie row name
+                title: "Winx Club", //Title
+                genre: "Annimation", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2004, //When the movie is available to watch
+                description: "At Alfea College, fairy warriors from all over the universe study and train to improve their magic powers. Bloom, a girl from Earth, joins them after discovering her own special abilities.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0421482/mediaviewer/rm2989234689/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=_wCvB9fa_0c",  //Trailer URL's
+            },
+            {   id: "Watch it again!", //Movie row name
+                title: "Truth or Dare", //Title
+                genre: "Drama, Thriller, Suspense", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2018, //When the movie is available to watch
+                description: "A harmless game of Truth or Dare among friends turns deadly when someone - or something - begins to punish those who tell a lie or refuse the dare.", //Description of the movie
+                image: "https://www.imdb.com/title/tt6772950/mediaviewer/rm1152470784/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=Cgnk3MLw9TM",  //Trailer URL's
+            },
+            {   id: "Watch it again!", //Movie row name
+                title: "Acrimony", //Title
+                genre: "Drama, Thriller, Romance", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2018, //When the movie is available to watch
+                description: "A faithful wife, tired of standing by her devious husband, is enraged when it becomes clear she has been betrayed.", //Description of the movie
+                image: "https://www.imdb.com/title/tt6063050/mediaviewer/rm2728416256/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=wlpunOUxYSo",  //Trailer URL's
+            },
+            {   id: "Watch it again!", //Movie row name
+                title: "Midnight Sun", //Title
+                genre: "Drama, Romance", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2018, //When the movie is available to watch
+                description: "A 17-year-old girl suffers from a condition that prevents her from being out in the sunlight.", //Description of the movie
+                image: "https://www.imdb.com/title/tt4799066/mediaviewer/rm889609728/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=fEskVQgtwaI",  //Trailer URL's
+            },
+            {   id: "Watch it again!", //Movie row name
+                title: "Ae dil hai mushkil", //Title
+                genre: "Drama, Romance, Musical", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2016, //When the movie is available to watch
+                description: "This story explores love - the shapes it takes, the ways it changes us and the exhilarating and often terrifying ride it takes us on. It is the journey of two characters, Alizeh and Ayan, as they navigate life, love and heartbreak.", //Description of the movie
+                image: "https://www.imdb.com/title/tt4559006/mediaviewer/rm2839587073/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=Z_PODraXg4E",  //Trailer URL's
+            },
+            {   id: "Watch it again!", //Movie row name
+                title: "Herbie", //Title
+                genre: "Adventure, Action, Family", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2005, //When the movie is available to watch
+                description: "Maggie Peyton, the new owner of Herbie, Number 53, the free-wheelin' Volkswagen bug with a mind of its own, puts the car through its paces on the road to becoming a NASCAR competitor.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0400497/mediaviewer/rm311860480/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=zD9De1OkJ4o",  //Trailer URL's
+            },
