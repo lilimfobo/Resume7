@@ -69,7 +69,27 @@
     top: 180px;
     width: 100%;
 }
+
 .showcase .get-started-container h1,p{
     color: white;
 }
 
+.showcase .get-started-container h1{
+    font-size: 3.9rem;
+}
+
+.showcase .get-started-container .para-1{
+    font-size: 1.7rem;
+}
+
+.showcase .get-started-container .para-2{
+    font-size: 1.2rem;
+}
+
+.showcase .get-started-container input{
+    width: 35%;
+    padding: 22px;
+    border: none;
+    margin-top: 0.5%;
+    outline: none;
+}
