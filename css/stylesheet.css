@@ -127,13 +127,15 @@ h2 {
     outline: none;
 }
 
-#yourName input{
-    width: 35%;
+/* .yourName input{
+    width: 60%;
     padding: 22px;
     border: none;
     margin-top: 0.5%;
     outline: none;
-}
+    color: white;
+    background-color: black;
+} */
 
 .emailAddressContainer button{
     padding: 22px;
@@ -249,7 +251,7 @@ footer .content .middle select option{
         padding: 17px;
         width: 55%;
     }
-    #yourName input{
+    .yourName input{
         padding: 17px;
         width: 55%;
     }
@@ -312,11 +314,11 @@ footer .content .middle select option{
 
     /*EMAIL ADDRESS*/
     .emailAddressContainer input
-    #yourName input{
+    .yourName input{
         padding: 14px;
         width: 70%;
     }
-    #yourName input{
+    .yourName input{
         padding: 17px;
         width: 55%;
     }
@@ -342,7 +344,7 @@ footer .content .middle select option{
         padding: 12px;
         width: 80%;
     }
-    #yourName input{
+    .yourName input{
         padding: 17px;
         width: 55%;
     }
