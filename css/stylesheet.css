@@ -262,7 +262,7 @@ footer .content .middle select option{
 }
 
 @media(max-width: 659px){
-    /*NAVBAR*/
+    /*NAVIGATION BAR*/
     .showcaseTop{
         padding: 26px 0px 0px 25px;
     }
@@ -351,3 +351,19 @@ footer .content .middle select option{
         padding-left: 0;
       }
 }
+
+@media(max-width: 346px){
+    
+    /*NAVIGATION BAR*/
+
+    .showcase-top #logo{
+        height: 22px;
+    }
+    .showcase-top .submit{
+        padding: 1px 5px;
+    }
+    .showcase-top select{
+        padding: 1px 0px;
+        position: relative;
+        right: 30px;
+    }
