@@ -97,3 +97,23 @@ window.addEventListener('scroll' , () => {
                 image: "https://www.imdb.com/title/tt0357277/mediaviewer/rm839355392/?ref_=tt_ov_i", //Image URL's
                 preview: "https://www.youtube.com/watch?v=XGnADb5e0mc",  //Trailer URL's
             },
+            {
+                id: "Coming Soon", //Movie row name
+                title: "Mr & Mrs Smith", //Title
+                genre: "Romance, Drama, Action", //Genre
+                comingSoon: true, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2005, //When it is available to watch
+                description: "A bored married couple is surprised to learn that they are both assassins hired by competing agencies to kill each other.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0356910/mediaviewer/rm2549451776/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=CZ0B22z22pI",  //Trailer URL's
+            },
+            {
+                id: "Coming Soon", //Movie row name
+                title: "Good girls", //Title
+                genre: "Romance, Drama, Action", //Genre
+                comingSoon: true, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2021, //When it is available to watch
+                description: "Three suburban mothers suddenly find themselves in desperate circumstances and decide to stop playing it safe and risk everything to take back their power.", //Description of the movie
+                image: "https://www.imdb.com/title/tt6474378/mediaviewer/rm255903745/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=kbjIaPzODs0",  //Trailer URL's
+            },
