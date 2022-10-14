@@ -541,3 +541,75 @@ window.addEventListener('scroll' , () => {
                 image: "https://www.imdb.com/title/tt14689620/mediaviewer/rm3179023617/?ref_=tt_ov_i", //Image URL's
                 preview: "https://www.youtube.com/watch?v=Gw_xrllOGu0",  //Trailer URL's
             },
+            {   id: "TV Shows", //Movie row name
+                title: "Only murders in the building", //Title
+                genre: "Drama, Crime, Comedy", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2021, //When the movie is available to watch
+                description: "Three strangers who share an obsession with true crime suddenly find themselves caught up in one.", //Description of the movie
+                image: "https://www.imdb.com/title/tt12851524/mediaviewer/rm3076984833/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=JRgyBaTulbs",  //Trailer URL's
+            },
+            {   id: "TV Shows", //Movie row name
+                title: "Sex life", //Title
+                genre: "Drama, Romance, Comedy", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2021, //When the movie is available to watch
+                description: "A suburban mother of two takes a fantasy-charged trip down memory lane that sets her very married present on a collision course with her wild-child past.", //Description of the movie
+                image: "https://www.imdb.com/title/tt10839422/mediaviewer/rm2574763777/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=jCS-Y6Sp7CI",  //Trailer URL's
+            },
+            {   id: "TV Shows", //Movie row name
+                title: "Ginny and Georgia", //Title
+                genre: "Drama, Romance, Comedy", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2021, //When the movie is available to watch
+                description: "Ginny Miller, an angsty fifteen-year-old, often feels more mature than her thirty-year-old mother, the irresistible and dynamic Georgia Miller.", //Description of the movie
+                image: "https://www.imdb.com/title/tt10813940/mediaviewer/rm1467340545/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=e34_mMhe4WQ",  //Trailer URL's
+            },
+            {   id: "TV Shows", //Movie row name
+                title: "Emily in paris", //Title
+                genre: "Drama, Romance, Comedy", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2020, //When the movie is available to watch
+                description: "A young American woman from the Midwest is hired by a marketing firm in Paris to provide them with an American perspective on things.", //Description of the movie
+                image: "https://www.imdb.com/title/tt8962124/mediaviewer/rm4170836225/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=lptctjAT-Mk",  //Trailer URL's
+            },
+            {   id: "TV Shows", //Movie row name
+                title: "13 Reasons why", //Title
+                genre: "Drama, Mystery, Thriller", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2017, //When the movie is available to watch
+                description: "Follows teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life.", //Description of the movie
+                image: "https://www.imdb.com/title/tt1837492/mediaviewer/rm2820554240/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=QkT-HIMSrRk",  //Trailer URL's
+            },
+            {   id: "TV Shows", //Movie row name
+                title: "Jane the virgin", //Title
+                genre: "Comedy", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2014, //When the movie is available to watch
+                description: "A young, devout Catholic woman discovers that she was accidentally artificially inseminated.", //Description of the movie
+                image: "https://www.imdb.com/title/tt3566726/mediaviewer/rm2076558593/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=JOKUcwrPFmg",  //Trailer URL's
+            },
+            {   id: "TV Shows", //Movie row name
+                title: "Gilmore Girls", //Title
+                genre: "Comedy, Romance, Drama", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2000, //When the movie is available to watch
+                description: "A dramedy centering around the relationship between a thirtysomething single mother and her teen daughter living in Stars Hollow, Connecticut.", //Description of the movie
+                image: "https://www.imdb.com/title/tt0238784/mediaviewer/rm632117760/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=YwY86TlfDI0",  //Trailer URL's
+            },
+            {   id: "TV Shows", //Movie row name
+                title: "Too hot to handle", //Title
+                genre: "Game show, Reality TV, Romance", //Genre
+                comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+                availDate: 2020, //When the movie is available to watch
+                description: "On the shores of paradise, gorgeous singles meet and mingle. But there's a twist. To win a $100,000 grand prize, they'll have to give up sex.", //Description of the movie
+                image: "https://www.imdb.com/title/tt12004280/mediaviewer/rm2852970497/?ref_=tt_ov_i", //Image URL's
+                preview: "https://www.youtube.com/watch?v=2JgPJpgnut4",  //Trailer URL's
+            },
