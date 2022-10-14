@@ -1165,3 +1165,21 @@ window.addEventListener('scroll' , () => {
                 image: "https://www.imdb.com/title/tt0172684/mediaviewer/rm38094080/?ref_=tt_ov_i", //Image URL's
                 preview: "https://www.youtube.com/watch?v=OtGzATlvw_0",  //Trailer URL's
             },
+            {   id: "Watch it again!", //Movie row name
+            title: "Fast and Furious", //Title
+            genre: "Crime, Drama, Action", //Genre
+            comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+            availDate: 2001, //When the movie is available to watch
+            description: "Los Angeles police officer Brian O'Conner must decide where his loyalty really lies when he becomes enamored with the street racing world he has been sent undercover to destroy.", //Description of the movie
+            image: "https://www.imdb.com/title/tt0232500/mediaviewer/rm3153527296/?ref_=tt_ov_i", //Image URL's
+            preview: "https://www.youtube.com/watch?v=2TAOizOnNPo",  //Trailer URL's
+        },
+        {   id: "Watch it again!", //Movie row name
+            title: "XXX Return of Xander Cage", //Title
+            genre: "Crime, Drama, Action", //Genre
+            comingSoon: false, //Boolean if the movie is: out=false, coming soon=true
+            availDate: 2017, //When the movie is available to watch
+            description: "Xander Cage is left for dead after an incident, though he secretly returns to action for a new, tough assignment with his handler Augustus Gibbons.", //Description of the movie
+            image: "https://www.imdb.com/title/tt1293847/mediaviewer/rm2237479424/?ref_=tt_ov_i", //Image URL's
+            preview: "https://www.youtube.com/watch?v=xEuM4IUFWu8",  //Trailer URL's
+        }
